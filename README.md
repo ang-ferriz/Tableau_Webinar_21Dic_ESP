@@ -17,14 +17,14 @@ Esta carpeta contiene los materiales para el análisis:
 - :globe_with_meridians: Dataset 1 | `dataset1_global_no2.xlsx` (archivo Excel): cambios globales de los niveles de NO2. Datos editados para dejar solo las columnas que nos interesan para este caso. El conjunto de datos original se puede encontrar en [_Data for: Impact of Lockdown during the COVID-19 Outbreak on Global Air Quality_](https://data.mendeley.com/datasets/wwjnw24xvk/1).
 - :chart_with_downwards_trend: Dataset 2 | `data2_filtered.csv` (Comma Separated Values file / archivo de valores separado por comas): algunos datos de NO2, PM10, PM2,5 para lugares específicos. El conjunto de datos original, que era un archivo realmente grande con muchas medidas, se editó para facilitar el trabajo. Está disponible en el repositorio el archivo de python Jupyter Notebook, [pre_processing_Q12020_data.ipynb](https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/pre_processing_Q12020_data.ipynb), con los pasos de limpieza simplemente para mostrar cómo el conjunto de datos original de la [_Air Quality Open Data Platform_](https://aqicn.org/data-platform/covid19/) se filtró.
             
-2) Link de Tableau para el tablero final y el archivo del libro de trabajo de Tableau. Es posible descargar el archivo y abrirlo en su máquina local cuando esté disponible en el repositorio, una vez finalizado el taller 🔜.
+2) Link de Tableau para el [tablero final](https://public.tableau.com/app/profile/.ngela4803/viz/webinar_tableau_21diciembre21/Cambio-MapaGlobal) y el archivo del libro de trabajo de Tableau. Es posible descargar el archivo y abrirlo en su máquina local cuando esté disponible en el repositorio, una vez finalizado el taller - disponible a lo largo de mañana 22/12! 🔜.
 
-3) Algunas de las ideas extraídas de las visualizaciones: - se añadirán a modo de resumen/conclusión al acabar el taller! 🔜
+3) Algunas de las ideas extraídas de las visualizaciones: - se añadirán a modo de resumen/conclusión, disponible a lo largo de mañana 22/12! 🔜
             
 ¿¡Preparadxs!? ¡Vamos! 🙌
 
 # :books: Recursos <a name="c-bullet"/>
-Algunos recursos para aprender más sobre los temas de preguntas y respuestas mencionados durante el taller - al acabar el taller! 🔜
+Algunos recursos para aprender más sobre los temas de preguntas y respuestas mencionados durante el taller - disponible a lo largo de mañana 22/12! 🔜
             
 # :fire: Desafío - al acabar el taller! 🔜 <a name="d-bullet"/>
-Algunas tareas relacionadas con el taller para ampliar y practicar con los datos y Tableau - al acabar el taller! 🔜
+Algunas tareas relacionadas con el taller para ampliar y practicar con los datos y Tableau - disponible a lo largo de mañana 22/12! 🔜
