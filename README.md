@@ -23,7 +23,8 @@ Esta carpeta contiene los materiales para el análisis:
             
 ¿¡Preparadxs!? ¡Vamos! 🙌
 
-# :books: Recursos  - al acabar el taller! 🔜 <a name="c-bullet"/>
-Some resources to learn more about the Q&A topics mentioned during the workshop:
-
+# :books: Recursos <a name="c-bullet"/>
+Algunos recursos para aprender más sobre los temas de preguntas y respuestas mencionados durante el taller - al acabar el taller! 🔜
+            
 # :fire: Desafío - al acabar el taller! 🔜 <a name="d-bullet"/>
+Algunas tareas relacionadas con el taller para ampliar y practicar con los datos y Tableau - al acabar el taller! 🔜
