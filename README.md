@@ -70,6 +70,12 @@ El aspecto final quedaría como la imagen de abajo pero puedes hacer que luzca c
 Os animo a que practiquéis editando los gráficos y el tablero. Si queréis explorar más allá, es interesante escoger, filtrando los mismos dataset, otro país/países y realizar una comparación de si la tendencia que muestran los datos globales se corresponde con los datos de los contaminantes por separado para el primer cuarto de año 2020 o si resultan ser diferentes a lo esperado. 👀
 
             
-🚀🚀🚀¡¡Seguimos aprendiendo!!🚀🚀🚀
+🚀🚀🚀¡¡Seguimos!!🚀🚀🚀
 
-<p align="left"> Ángela S. 
+
+**<p align="right"> 📧 Contacto 📧**
+<p align="right"> ¿Conectamos en <a href="https://www.linkedin.com/in/ang-sanchez/" target="blank"><img align="right" src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/linkedin_logo.png" alt="Ángela S." height="30" width="30" /> Linkedin </a> ?
+
+<p align="right"> ¿Por mail?   <a href="mailto:angela.s.ferriz@gmail.com " target="blank"><img align="right" src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/gmail_logo.png" alt="Ángela S." height="25" width="30" /> Aquí </a> o copialo clicando en la imagen (angela.s.ferriz@gmail.com)
+
+</p>
