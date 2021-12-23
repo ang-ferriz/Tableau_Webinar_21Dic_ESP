@@ -76,6 +76,6 @@ Os animo a que practiquéis editando los gráficos y el tablero. Si queréis exp
 **<p align="right"> 📧 Contacto 📧**
 <p align="right"> ¿Conectamos en <a href="https://www.linkedin.com/in/ang-sanchez/" target="blank"><img align="right" src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/linkedin_logo.png" alt="Ángela S." height="30" width="30" /> Linkedin </a> ?
 
-<p align="right"> ¿Por mail?   <a href="mailto:angela.s.ferriz@gmail.com " target="blank"><img align="right" src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/gmail_logo.png" alt="Ángela S." height="25" width="30" /> Aquí </a> o copialo clicando en la imagen (angela.s.ferriz@gmail.com)
+<p align="right"> ¿Por mail?   <a href="mailto:angela.s.ferriz@gmail.com " target="blank"><img align="right" src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/gmail_logo.png" alt="Ángela S." height="25" width="30" /> angela.s.ferriz@gmail.com </a> o clica en el logo
 
 </p>
