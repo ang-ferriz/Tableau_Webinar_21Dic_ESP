@@ -58,7 +58,7 @@ Algunas tareas relacionadas con el taller para ampliar y practicar con los datos
 
 El aspecto final quedaría como la imagen de abajo pero puedes hacer que luzca como quieras. 
             
-<p align="center"> <img src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/dashboard_tableau.png" width="1000px" height="auto">
+<p align="center"> <img src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/dashboard.png" width="1000px" height="auto">
 
 
 Os animo a que practiquéis editando los gráficos y el tablero. Si queréis explorar más allá, es interesante escoger, filtrando los mismos dataset, otro país/países y realizar una comparación de si la tendencia que muestran los datos globales se corresponde con los datos de los contaminantes por separado para el primer cuarto de año 2020 o si resultan ser diferentes a lo esperado. 👀
