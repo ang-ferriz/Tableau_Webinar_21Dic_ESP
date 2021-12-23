@@ -1,4 +1,4 @@
-# <p align="center"> 📈 Tableau Public para visualizar datos climáticos 📈 | 📍 Martes 21 de diciembre a las 18:00h CET
+# <p align="center"> :chart_with_downwards_trend: Tableau Public para visualizar datos climáticos :bar_chart: | :date: Martes 21 de diciembre del 2021, 18:00h CET
 
 + [Introducción](#a-bullet) 
 + [Datos](#b-bullet) 
