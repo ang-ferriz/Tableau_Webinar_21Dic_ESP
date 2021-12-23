@@ -66,10 +66,10 @@ El aspecto final quedaría como la imagen de abajo pero puedes hacer que luzca c
             
 <p align="center"> <img src="https://github.com/ang-ferriz/tableau-webinar-21diciembre21/blob/main/Imagenes/dashboard.png" width="1000px" height="auto">
 
-            
-Os animo a que practiquéis editando los gráficos y el tablero, probéis a escoger filtrando los mismos dataset pero para otro país/países y comparéis si la tendencia que muestran los datos globales se corresponde con los datos de los contaminantes por separado para el primer cuarto de año 2020 o si resultan ser diferentes a lo esperado segun la tendencia de las representaciones comparativas de NO2. 👀
+
+Os animo a que practiquéis editando los gráficos y el tablero. Si queréis explorar más allá, es interesante escoger, filtrando los mismos dataset, otro país/países y realizar una comparación de si la tendencia que muestran los datos globales se corresponde con los datos de los contaminantes por separado para el primer cuarto de año 2020 o si resultan ser diferentes a lo esperado. 👀
 
             
 🚀🚀🚀¡¡Seguimos aprendiendo!!🚀🚀🚀
 
-Ángela S. <p align="left">
+<p align="left"> Ángela S. 
