@@ -3,8 +3,9 @@
 + [Introducción](#a-bullet) 
 + [Datos](#b-bullet) 
 + [Resultados](#e-bullet)
-+ [Recursos](#c-bullet) 
 + [Desafío](#d-bullet)
++ [Recursos](#c-bullet) 
+
             
 # :hourglass_flowing_sand: Introducción <a name="a-bullet"/>
 El análisis de datos es crucial para que la sociedad pueda encontrar las mejores soluciones a los desafíos ambientales y sociales a los que nos enfentamos 🎯. Sin él, el último informe del IPCC (Panel Intergubernamental sobre Cambio Climático), por ejemplo, no sería posible.
@@ -39,13 +40,6 @@ Algunas de las ideas extraídas de las visualizaciones:
 
 🚗 Las reducciones significativas de los niveles de contaminantes fueron claras a pesar de que el confinamiento aún no había comenzado, esto podría ser una señal de desaceleración en las actividades económicas. Dado que el dióxido de nitrógeno se emite como resultado de los procesos de combustión de combustibles fósiles, principalmente de las actividades de los vehículos de calle en las zonas urbanas, tiene sentido que se muestre una reducción en el gráfico.
             
-
-# :books: Recursos <a name="c-bullet"/>
-Algunos recursos para aprender más:
-            
-- [Calidad del aire ambiente (exterior) y salud.](https://www.who.int/es/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health) Organización Mundial de la Salud
-- [Pandemia de COVID-19 en Italia.](https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Italia) Wikipedia, la enciclopedia libre. 
-- [Prácticas recomendadas del análisis visual: guía.](https://www.tableau.com/es-es/learn/whitepapers/tableau-visual-guidebook?_ga=2.44606116.1623985826.1640252347-1210415786.1635244401) y [Prácticas recomendadas de análisis visual.](https://help.tableau.com/current/blueprint/es-es/bp_visual_best_practices.htm) Tableau. 
             
 # :fire: Desafío <a name="d-bullet"/>
 Algunas tareas relacionadas con el taller para ampliar y practicar con los datos y Tableau:
@@ -69,6 +63,12 @@ El aspecto final quedaría como la imagen de abajo pero puedes hacer que luzca c
 
 Os animo a que practiquéis editando los gráficos y el tablero. Si queréis explorar más allá, es interesante escoger, filtrando los mismos dataset, otro país/países y realizar una comparación de si la tendencia que muestran los datos globales se corresponde con los datos de los contaminantes por separado para el primer cuarto de año 2020 o si resultan ser diferentes a lo esperado. 👀
 
+# :books: Recursos <a name="c-bullet"/>
+Algunos recursos:
+            
+- [Calidad del aire ambiente (exterior) y salud.](https://www.who.int/es/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health) Organización Mundial de la Salud
+- [Pandemia de COVID-19 en Italia.](https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Italia) Wikipedia, la enciclopedia libre. 
+- [Prácticas recomendadas del análisis visual: guía.](https://www.tableau.com/es-es/learn/whitepapers/tableau-visual-guidebook?_ga=2.44606116.1623985826.1640252347-1210415786.1635244401) y [Prácticas recomendadas de análisis visual.](https://help.tableau.com/current/blueprint/es-es/bp_visual_best_practices.htm) Tableau. 
             
 🚀🚀🚀¡¡Seguimos!!🚀🚀🚀
 
